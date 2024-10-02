@@ -102,7 +102,6 @@ namespace Quảnlýhànghóa
         }
         static void MenuLoop()
         {
-            System("cls");
             Console.WriteLine("*****************Menu*****************");
             Console.WriteLine("1.Nhập thêm một mặt hàng");
             Console.WriteLine("2.Xóa một mặt hàng");
