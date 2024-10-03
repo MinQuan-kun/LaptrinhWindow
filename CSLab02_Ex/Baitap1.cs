@@ -90,6 +90,52 @@ namespace Baitap01
             foreach (string str in listproduct)
                 Console.WriteLine(str);
         } 
-    }
-    
-}   
+    } 
+} 
+//Code thầy
+// using System;
+// using System.Text;
+// using System.Collections.Generic;
+// namespace Baitap01
+// {
+//     public class Program
+//     {
+//         static void Main(string[]args)
+//         {
+//             ArrayList mylist = new ArrayList();
+//             string n;
+//             do
+//             {
+//             n = Console.ReadLine();
+//             if (n == "stop") break;
+//             mylist.Add(n);
+//             } 
+//             while (true);
+//             Console.WriteLine("Danh sách hiện tại: ")
+//             foreach (string str in mylist )
+//                 Console.WriteLine(str);
+            
+//             Console.WriteLine("\n Nhap phan tu can tim:");
+//             string x = Console.ReadLine();
+//             int vitri = al.BinarySearch(x);
+//             if (vitri >= 0)
+//             {
+//             Console.WriteLine("\nTim thay");
+//             Console.WriteLine("Xoa phan tu(y/n)");
+//             string ch = Console.ReadLine();
+//             if (ch.ToUpper() == "Y")
+//             al.RemoveAt(vitri);
+//             Console.WriteLine("Mang sau khi xoa:");
+//             Console.WriteLine("Danh sách hiện tại: ")
+//             foreach (string str in mylist )
+//                 Console.WriteLine(str);
+//             }
+//             else
+//             Console.WriteLine("\nKhong tim thay");
+//             //Dao tat ca cac phan tu:
+//             al.Reverse();
+//             XuatMang(al);
+//             //Dao mot phan cua mang: al.reverse(vitri,soluong);
+//         }
+//     }
+// }
