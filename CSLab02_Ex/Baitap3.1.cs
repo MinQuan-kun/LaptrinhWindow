@@ -17,6 +17,19 @@ namespace SinhVien
         public DateTime NgaySinh { get; set; }
         public string DiaChi { get; set; }
         public string DienThoai { get; set; }
+        
+        // Constructor không tham số
+        public SinhVien() { }
+
+        // Constructor có tham số
+        public SinhVien(int maSV, string hoTen, DateTime ngaySinh, string diaChi, string dienThoai)
+        {
+            MaSV = maSV;
+            HoTen = hoTen;
+            NgaySinh = ngaySinh;
+            DiaChi = diaChi;
+            DienThoai = dienThoai;
+        }
         public int LayTuoi
         {
             get { return DateTime.Now.Year - NgaySinh.Year; }
