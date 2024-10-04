@@ -22,9 +22,9 @@ namespace Baitap2
         public int MaMH;
         public string TenMH;
         public int Soluong;
-        public float Dongia;
+        public double Dongia;
 
-        public float Thanhtoan()
+        public double Thanhtoan()
         {
             return Dongia * Soluong;
         }
@@ -135,7 +135,7 @@ namespace Baitap2
                 Console.Write("Lỗi! Số lượng phải là số nguyên, vui lòng nhập lại: ");
             }
             Console.Write("Nhập đơn giá: ");
-            while (!float.TryParse(Console.ReadLine(), out mh.Dongia))
+            while (!double.TryParse(Console.ReadLine(), out mh.Dongia))
             {
                 Console.Write("Lỗi! Đơn giá phải là số thực, vui lòng nhập lại: ");
             }
