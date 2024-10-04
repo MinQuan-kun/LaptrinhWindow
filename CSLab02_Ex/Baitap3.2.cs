@@ -62,9 +62,15 @@ namespace HinhChuNhat
             Console.OutputEncoding = Encoding.UTF8;
             HinhChuNhat hcn = new HinhChuNhat();
             Console.Write("Nhập chiều cao của hình chữ nhật: ");
-            hcn.mChieuCao = int.Parse(Console.ReadLine());
+            while(!int.TryParse(Console.ReadLine(), out hcn.mChieuCao))
+            {
+                Console.Write("Lỗi! chiều cao là phải 1 số nguyên: ");
+            }
             Console.Write("Nhập chiều rộng của hình chữ nhật: ");
-            hcn.mChieuRong = int.Parse(Console.ReadLine());
+            while(!int.TryParse(Console.ReadLine(), out hcn.mChieuRong))
+            {
+                Console.Write("Lỗi! chiều rộng phải là 1 số nguyên: ");
+            }
             if(!hcn.CheckHCN())
                 Console.WriteLine("Đây là hình chữ nhật!!");
             else
