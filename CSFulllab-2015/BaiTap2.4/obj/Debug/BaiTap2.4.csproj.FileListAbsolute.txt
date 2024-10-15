@@ -1,0 +1,10 @@
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\obj\Debug\BaiTap2.4.csproj.AssemblyReference.cache
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\obj\Debug\BaiTap2._4.Form1.resources
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\obj\Debug\BaiTap2._4.Properties.Resources.resources
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\obj\Debug\BaiTap2.4.csproj.GenerateResource.cache
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\obj\Debug\BaiTap2.4.csproj.CoreCompileInputs.cache
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\bin\Debug\BaiTap2.4.exe.config
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\bin\Debug\BaiTap2.4.exe
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\bin\Debug\BaiTap2.4.pdb
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\obj\Debug\BaiTap2.4.exe
+D:\Visual Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\BaiTap2.4\obj\Debug\BaiTap2.4.pdb
