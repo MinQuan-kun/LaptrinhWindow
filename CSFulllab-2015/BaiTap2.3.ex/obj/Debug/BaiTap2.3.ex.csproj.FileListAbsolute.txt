@@ -1,0 +1,10 @@
+D:\Visual Code\LTWindow\BaiTap2.3.ex\obj\Debug\BaiTap2.3.ex.csproj.AssemblyReference.cache
+D:\Visual Code\LTWindow\BaiTap2.3.ex\obj\Debug\BaiTap2._3.ex.Form1.resources
+D:\Visual Code\LTWindow\BaiTap2.3.ex\obj\Debug\BaiTap2._3.ex.Properties.Resources.resources
+D:\Visual Code\LTWindow\BaiTap2.3.ex\obj\Debug\BaiTap2.3.ex.csproj.GenerateResource.cache
+D:\Visual Code\LTWindow\BaiTap2.3.ex\obj\Debug\BaiTap2.3.ex.csproj.CoreCompileInputs.cache
+D:\Visual Code\LTWindow\BaiTap2.3.ex\bin\Debug\BaiTap2.3.ex.exe.config
+D:\Visual Code\LTWindow\BaiTap2.3.ex\bin\Debug\BaiTap2.3.ex.exe
+D:\Visual Code\LTWindow\BaiTap2.3.ex\bin\Debug\BaiTap2.3.ex.pdb
+D:\Visual Code\LTWindow\BaiTap2.3.ex\obj\Debug\BaiTap2.3.ex.exe
+D:\Visual Code\LTWindow\BaiTap2.3.ex\obj\Debug\BaiTap2.3.ex.pdb
