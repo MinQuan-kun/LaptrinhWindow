@@ -1,1 +1,0 @@
-//Viết chương trình nhập vào giá trị nguyên dương N, tính tổng
