@@ -52,7 +52,7 @@ namespace BaiTap2._4
                     equation.Append(i);
                 }
             }
-            Output1.Text = equation.ToString(); // Hiển thị chuỗi và tổng
+            Output1.Text = equation.ToString(); // Hiển thị chuỗi
             Output2.Text = s.ToString();
         }
     }
