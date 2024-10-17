@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Visual Code\\LTWindow\\BaiTap2.5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{296AB0D2-9376-484D-99EE-91D52BCA1195}|BaiTap2.5.csproj|D:\\Visual Code\\LTWindow\\BaiTap2.5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{296AB0D2-9376-484D-99EE-91D52BCA1195}|BaiTap2.5.csproj|d:\\visual code\\ltwindow\\baitap2.5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{296AB0D2-9376-484D-99EE-91D52BCA1195}|BaiTap2.5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{296AB0D2-9376-484D-99EE-91D52BCA1195}|BaiTap2.5.csproj|d:\\visual code\\ltwindow\\baitap2.5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{296AB0D2-9376-484D-99EE-91D52BCA1195}|BaiTap2.5.csproj|D:\\Visual Code\\LTWindow\\BaiTap2.5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{296AB0D2-9376-484D-99EE-91D52BCA1195}|BaiTap2.5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Visual Code\\LTWindow\\BaiTap2.5\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T03:04:48.906Z",
               "EditorCaption": ""
