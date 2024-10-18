@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Code\\HCMUE\\LT Window(2411COMP1019)\\CSFulllab-2015\\4.Truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\BaiTap4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3639DD9F-1DEF-471A-B0C3-5D6E9BD55791}|BaiTap4.csproj|d:\\visual studio code\\hcmue\\lt window(2411comp1019)\\csfulllab-2015\\4.truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\baitap4\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3639DD9F-1DEF-471A-B0C3-5D6E9BD55791}|BaiTap4.csproj|solutionrelative:frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3639DD9F-1DEF-471A-B0C3-5D6E9BD55791}|BaiTap4.csproj|d:\\visual studio code\\hcmue\\lt window(2411comp1019)\\csfulllab-2015\\4.truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\baitap4\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3639DD9F-1DEF-471A-B0C3-5D6E9BD55791}|BaiTap4.csproj|solutionrelative:frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3639DD9F-1DEF-471A-B0C3-5D6E9BD55791}|BaiTap4.csproj|d:\\visual studio code\\hcmue\\lt window(2411comp1019)\\csfulllab-2015\\4.truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\baitap4\\frmnhaplieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3639DD9F-1DEF-471A-B0C3-5D6E9BD55791}|BaiTap4.csproj|solutionrelative:frmnhaplieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3639DD9F-1DEF-471A-B0C3-5D6E9BD55791}|BaiTap4.csproj|d:\\visual studio code\\hcmue\\lt window(2411comp1019)\\csfulllab-2015\\4.truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\baitap4\\frmnhaplieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3639DD9F-1DEF-471A-B0C3-5D6E9BD55791}|BaiTap4.csproj|solutionrelative:frmnhaplieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmXuat.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code\\HCMUE\\LT Window(2411COMP1019)\\CSFulllab-2015\\4.Truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\BaiTap4\\frmXuat.cs",
+              "RelativeDocumentMoniker": "frmXuat.cs",
+              "ToolTip": "D:\\Visual Studio Code\\HCMUE\\LT Window(2411COMP1019)\\CSFulllab-2015\\4.Truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\BaiTap4\\frmXuat.cs",
+              "RelativeToolTip": "frmXuat.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:51:20.665Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmXuat.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Code\\HCMUE\\LT Window(2411COMP1019)\\CSFulllab-2015\\4.Truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\BaiTap4\\frmXuat.cs",
+              "RelativeDocumentMoniker": "frmXuat.cs",
+              "ToolTip": "D:\\Visual Studio Code\\HCMUE\\LT Window(2411COMP1019)\\CSFulllab-2015\\4.Truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\BaiTap4\\frmXuat.cs [Design]",
+              "RelativeToolTip": "frmXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:45:33.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmNhapLieu.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio Code\\HCMUE\\LT Window(2411COMP1019)\\CSFulllab-2015\\4.Truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\BaiTap4\\frmNhapLieu.cs",
+              "RelativeDocumentMoniker": "frmNhapLieu.cs",
+              "ToolTip": "D:\\Visual Studio Code\\HCMUE\\LT Window(2411COMP1019)\\CSFulllab-2015\\4.Truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\BaiTap4\\frmNhapLieu.cs [Design]",
+              "RelativeToolTip": "frmNhapLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:43:15.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmNhapLieu.cs",
+              "DocumentMoniker": "D:\\Visual Studio Code\\HCMUE\\LT Window(2411COMP1019)\\CSFulllab-2015\\4.Truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\BaiTap4\\frmNhapLieu.cs",
+              "RelativeDocumentMoniker": "frmNhapLieu.cs",
+              "ToolTip": "D:\\Visual Studio Code\\HCMUE\\LT Window(2411COMP1019)\\CSFulllab-2015\\4.Truy\u1EC1n d\u1EEF li\u1EC7u gi\u1EEFa c\u00E1c form\\BaiTap4\\frmNhapLieu.cs",
+              "RelativeToolTip": "frmNhapLieu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:44:14.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

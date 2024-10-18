@@ -1,0 +1,11 @@
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\obj\Debug\BaiTap4.csproj.AssemblyReference.cache
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\obj\Debug\BaiTap4.frmNhapLieu.resources
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\obj\Debug\BaiTap4.frmXuat.resources
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\obj\Debug\BaiTap4.Properties.Resources.resources
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\obj\Debug\BaiTap4.csproj.GenerateResource.cache
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\obj\Debug\BaiTap4.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\bin\Debug\BaiTap4.exe.config
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\bin\Debug\BaiTap4.exe
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\bin\Debug\BaiTap4.pdb
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\obj\Debug\BaiTap4.exe
+D:\Visual Studio Code\HCMUE\LT Window(2411COMP1019)\CSFulllab-2015\4.Truyền dữ liệu giữa các form\BaiTap4\obj\Debug\BaiTap4.pdb
