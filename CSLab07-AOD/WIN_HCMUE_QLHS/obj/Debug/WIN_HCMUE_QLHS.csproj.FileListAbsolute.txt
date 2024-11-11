@@ -1,0 +1,12 @@
+D:\Visual Code\WIN_HCMUE_QLHS\bin\Debug\WIN_HCMUE_QLHS.exe.config
+D:\Visual Code\WIN_HCMUE_QLHS\bin\Debug\WIN_HCMUE_QLHS.exe
+D:\Visual Code\WIN_HCMUE_QLHS\bin\Debug\WIN_HCMUE_QLHS.pdb
+D:\Visual Code\WIN_HCMUE_QLHS\obj\Debug\WIN_HCMUE_QLHS.csproj.AssemblyReference.cache
+D:\Visual Code\WIN_HCMUE_QLHS\obj\Debug\WIN_HCMUE_QLHS.frmMain.resources
+D:\Visual Code\WIN_HCMUE_QLHS\obj\Debug\WIN_HCMUE_QLHS.Properties.Resources.resources
+D:\Visual Code\WIN_HCMUE_QLHS\obj\Debug\WIN_HCMUE_QLHS.csproj.GenerateResource.cache
+D:\Visual Code\WIN_HCMUE_QLHS\obj\Debug\WIN_HCMUE_QLHS.csproj.CoreCompileInputs.cache
+D:\Visual Code\WIN_HCMUE_QLHS\obj\Debug\WIN_HCMUE_QLHS.exe
+D:\Visual Code\WIN_HCMUE_QLHS\obj\Debug\WIN_HCMUE_QLHS.pdb
+D:\Visual Code\WIN_HCMUE_QLHS\obj\Debug\WIN_HCMUE_QLHS.frmLogin.resources
+D:\Visual Code\WIN_HCMUE_QLHS\obj\Debug\WIN_HCMUE_QLHS.frmLopHoc.resources
