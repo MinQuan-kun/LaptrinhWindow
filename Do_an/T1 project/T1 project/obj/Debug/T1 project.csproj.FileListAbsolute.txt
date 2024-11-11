@@ -1,0 +1,10 @@
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\bin\Debug\T1 project.exe.config
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\bin\Debug\T1 project.exe
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\bin\Debug\T1 project.pdb
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\obj\Debug\T1 project.csproj.AssemblyReference.cache
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\obj\Debug\T1_project.Form1.resources
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\obj\Debug\T1_project.Properties.Resources.resources
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\obj\Debug\T1 project.csproj.GenerateResource.cache
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\obj\Debug\T1 project.csproj.CoreCompileInputs.cache
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\obj\Debug\T1 project.exe
+C:\Users\default.LAPTOP-R956US05\OneDrive\Desktop\T1 project\T1 project\obj\Debug\T1 project.pdb
